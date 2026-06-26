@@ -6,6 +6,7 @@
 - Files with the `.md` or `.markdown` extension
 - Snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
+
 **What is a _heading_?** A heading is a larger bit of text at the beginning of a section. There are six sizes.
 
 ### Example
